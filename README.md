@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![AlanOliveira43's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanOliveira43&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanOliveira43&layout=donut)](https://github.com/AlanOliveira43/github-readme-stats)
 <!--
 **AlanOliveira43/AlanOliveira43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
